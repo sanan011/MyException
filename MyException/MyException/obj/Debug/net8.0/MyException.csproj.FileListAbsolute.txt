@@ -1,0 +1,15 @@
+C:\Users\AzEduNet\source\repos\MyException\MyException\bin\Debug\net8.0\MyException.exe
+C:\Users\AzEduNet\source\repos\MyException\MyException\bin\Debug\net8.0\MyException.deps.json
+C:\Users\AzEduNet\source\repos\MyException\MyException\bin\Debug\net8.0\MyException.runtimeconfig.json
+C:\Users\AzEduNet\source\repos\MyException\MyException\bin\Debug\net8.0\MyException.dll
+C:\Users\AzEduNet\source\repos\MyException\MyException\bin\Debug\net8.0\MyException.pdb
+C:\Users\AzEduNet\source\repos\MyException\MyException\obj\Debug\net8.0\MyException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AzEduNet\source\repos\MyException\MyException\obj\Debug\net8.0\MyException.AssemblyInfoInputs.cache
+C:\Users\AzEduNet\source\repos\MyException\MyException\obj\Debug\net8.0\MyException.AssemblyInfo.cs
+C:\Users\AzEduNet\source\repos\MyException\MyException\obj\Debug\net8.0\MyException.csproj.CoreCompileInputs.cache
+C:\Users\AzEduNet\source\repos\MyException\MyException\obj\Debug\net8.0\MyException.sourcelink.json
+C:\Users\AzEduNet\source\repos\MyException\MyException\obj\Debug\net8.0\MyException.dll
+C:\Users\AzEduNet\source\repos\MyException\MyException\obj\Debug\net8.0\refint\MyException.dll
+C:\Users\AzEduNet\source\repos\MyException\MyException\obj\Debug\net8.0\MyException.pdb
+C:\Users\AzEduNet\source\repos\MyException\MyException\obj\Debug\net8.0\MyException.genruntimeconfig.cache
+C:\Users\AzEduNet\source\repos\MyException\MyException\obj\Debug\net8.0\ref\MyException.dll
